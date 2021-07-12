@@ -1,1 +1,2 @@
-# grok_intro_to_python
+# Introduction to Programming (Python) Answers on Grok Learning.
+This is a very simple yet helpful repository I have made for the [Introduction to Programming](https://groklearning.com/learn/intro-python-1/) on the Australian and New Zealand learning site [Grok Learning](https://groklearning.com/). A repository like this has already been made prior but has since been privated by the author, [JK88-1337](https://github.com/JK88-1337/), who had the full course finished and posted. I don't have a copy of his repo but I have finished the course myself which I will be sharing.
